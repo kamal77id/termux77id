@@ -10,4 +10,5 @@ https://github.com/kamal77id/termux77id
 
 # run
 cd instabrute
+
 python run.py
