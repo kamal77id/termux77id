@@ -9,6 +9,6 @@ git clone
 https://github.com/kamal77id/termux77id
 
 # run
-cd instabrute
+cd termux77id
 
 python run.py
